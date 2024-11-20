@@ -1,0 +1,7 @@
+{
+  "id" : 1,
+  "title": "Album example",
+  "artist": "Artist example",
+  "releaseYear": 2024,
+  "trackList": ["Track 1", "Track 2"]
+}
